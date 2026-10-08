@@ -1,0 +1,11 @@
+AI AFFILIATE CREATOR — WEB APP FOR OPERA MINI
+
+1. This is a web app, not an APK.
+2. Start the server with: npm start
+3. Open http://YOUR-SERVER:8787/ in Opera Mini.
+4. For public use, deploy behind HTTPS.
+5. Optional AI generation: set AI_API_KEY, AI_BASE_URL and AI_MODEL on the server.
+6. Without an AI key, verified template generation + poster + MP4 slideshow fallback still work.
+7. Test extraction URL: https://dummyjson.com/products/1
+
+IMPORTANT: A real retailer may block automated retrieval or require an official API. In that case use the manual fallback rather than fabricating facts.
